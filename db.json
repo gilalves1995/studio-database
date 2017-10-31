@@ -1,0 +1,75 @@
+{
+	"myArtPieces": [{
+            "id": "0",
+			"name": "Mona Lisa",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["davinci", "woman", "oil", "wood"],
+			"imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		},
+		{
+            "id": "1",
+			"name": "The Scream",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["munch", "scream"],
+			"imageUrl": ["https://www.edvardmunch.org/images/paintings/the-scream.jpg"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		},
+		{     
+            "id": "2",
+			"name": "American Gothic",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["farmers", "portrait", "gothic"],
+			"imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		},
+		{
+            "id": "3",
+			"name": "The Creation of Adam",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["creation", "sistine", "chapel", "creation"],
+			"imageUrl": ["https://www.michelangelo.org/images/artworks/the-creation-of-adam.jpg"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		},
+		{
+            "id": "4",
+			"name": "Mandolin",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["instrument", "oil"],
+			"imageUrl": ["https://www.pablopicasso.org/images/paintings/girl-with-mandolin.jpg"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		},
+		{
+            "id": "5",
+			"name": "Avignon",
+			"year": "1599",
+			"price": 20,
+			"technicalSpecs": "Blablablabla",
+			"keywords": ["picasso", "ladies"],
+			"imageUrl": ["http://moma.org/d/assets/W1siZiIsIjIwMTUvMTAvMTQvMXN0N2ozaHJsY18xMzc0MS5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/13741.jpg?sha=c21e7c1288d03fd7"],
+			"currentOwner": "",
+			"author": "",
+			"status": "Able to be sold"
+		}
+	]
+}
